@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Crossword Helper</string>
+    <string name="ChooseLengthText">Please select the length of the word</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="ConfirmButtonText">Confirm</string>
+    <string name="InputLettersText">Please input known letters</string>
+    <string name="InputLettersTextExtra">(leave unknown letters blank)</string>
+    <string name="NewWordButtonText">New Word</string>
+    <string name="ShowLettersText">words found</string>
+    <string name="ShowLettersTextExtra">(only 100 words are shown per page)</string>
+    <string name="TextField1">1</string>
+    <string name="TextField2">2</string>
+    <string name="TextField3">3</string>
+    <string name="TextField4">4</string>
+    <string name="TextField5">5</string>
+    <string name="TextField6">6</string>
+    <string name="TextField7">7</string>
+    <string name="TextField8">8</string>
+    <string name="TextField9">9</string>
+    <string name="TextField10">10</string>
+    <string name="TextField11">11</string>
+    <string name="TextField12">12</string>
+    <string name="TextField13">13</string>
+    <string name="TextField14">14</string>
+    <string name="TextField15">15</string>
+    <string name="TextField16">16</string>
+    <string name="TextField17">17</string>
+    <string name="TextField18">18</string>
+    <string name="TextField19">19</string>
+    <string name="TextField20">20</string>
+    <string name="TextField21">21</string>
+    <string name="TextField22">22</string>
+    <string name="TextField23">23</string>
+    <string name="TextField24">24</string>
+    <string name="TextField25">25</string>
+    <string name="TextField26">26</string>
+    <string name="TextField27">27</string>
+    <string name="TextField28">28</string>
+    <string name="TextField29">29</string>
+    <string name="TextField30">30</string>
+    <string name="TextField31">31</string>
+    <string name="google_app_id">ca-app-pub-4123491557834226~6260372625</string>
+    <string name="Next_100_Button">Next 100</string>
+    <string name="Previous_100_Button">Previous 100</string>
+</resources>
